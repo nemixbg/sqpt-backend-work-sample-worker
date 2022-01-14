@@ -1,1 +1,1 @@
-# nesqpt-backend-work-sample-worker
+# sqpt-backend-work-sample-worker
